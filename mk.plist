@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://www.laoxier365.com:3000/release/lxe.ipa?1231456</string>
+                        <string>http://www.laoxier365.com:3000/release/lxe.ipa</string>
                     </dict>
                 </array>
 				<key>metadata</key>
@@ -19,7 +19,7 @@
                     <key>bundle-identifier</key>
                     <string>com.jsd.lxe</string>
                     <key>bundle-version</key>
-                    <string>1.0.0</string>
+                    <string>1.0.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
